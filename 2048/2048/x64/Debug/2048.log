@@ -1,0 +1,12 @@
+﻿  2048.cpp
+C:\Users\alekk\OneDrive\Bureaublad\C++\2048\2048\2048.cpp(65,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\2048\2048\2048.cpp(280,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\2048\2048\2048.cpp(297,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\2048\2048\2048.cpp(306,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\2048\2048\2048.cpp(335,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\2048\2048\2048.cpp(338,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\2048\2048\2048.cpp(351,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\2048\2048\2048.cpp(411,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\2048\2048\2048.cpp(445,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\2048\2048\2048.cpp(478,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  2048.vcxproj -> C:\Users\alekk\OneDrive\Bureaublad\C++\2048\x64\Debug\2048.exe
